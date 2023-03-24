@@ -205,8 +205,8 @@ enable = false
     extended = true
     min = "0.75.0"
   [[module.imports]]
-    path = "github.com/google/docsy"
+    path = "github.com/h-enk/doks"
     disable = false
   [[module.imports]]
-    path = "github.com/google/docsy/dependencies"
+    path = "github.com/h-enk/doks"
     disable = false    
